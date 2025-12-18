@@ -70,17 +70,11 @@ Existing resume tools are either template-only or expensive, offering limited cu
 Add screenshots of the application below:
 
 * Home Page
+  
 * Resume Input Form
+* 
 * AI-Generated Resume Preview
 
-Example:
-
-```
-![Home Page](screenshots/home.png)
-![Resume Preview](screenshots/preview.png)
-```
-
----
 
 ### 🚀 Future Enhancements
 
@@ -112,7 +106,7 @@ Example:
 
 ---
 
-### 🖼️ Screenshot Checklist (What to Include)
+### 🖼️ Screenshot Checklist 
 
 Add the following screenshots to your GitHub `screenshots/` folder:
 
@@ -122,17 +116,6 @@ Add the following screenshots to your GitHub `screenshots/` folder:
 4. **Resume Preview** – AI-generated resume output
 5. **Download View** – PDF or final resume export
 
-Recommended format:
-
-```
-/screenshots
-  ├── home.png
-  ├── form.png
-  ├── preview.png
-  └── download.png
-```
-
----
 
 ### 🎥 Demo Setup Checklist
 
