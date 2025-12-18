@@ -63,10 +63,7 @@ Existing resume tools are either template-only or expensive, offering limited cu
 
 ### 🔗 Demo Link
 
-👉(https://cute-peony-406c90.netlify.app/  )
-
-Example:
-https://cute-peony-406c90.netlify.app/ 
+👉(https://cute-peony-406c90.netlify.app/  ) 
 
 ### 🖼️ Screenshots
 
@@ -149,12 +146,6 @@ To complete your demo:
    * Input data → Generate resume → Preview → Download
 5. Pin the repository on your GitHub profile
 
----
-
-### 👩‍💻 Author
-
-**Ncebakazi Makhanya**
-AI / ML Portfolio Project
 
 ## Features
 - AI-generated resume content
@@ -167,8 +158,5 @@ AI / ML Portfolio Project
 - Python (AI content generation)
 - Streamlit / Web deployment
 
-## Demo
-[Add live demo link here]
-
-## Author
+##👩‍💻 Author
 Ncebakazi Makhanya
